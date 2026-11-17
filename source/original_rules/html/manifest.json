@@ -1,0 +1,536 @@
+{
+  "source_url": "https://gltjk.com/sanguosha/rules/",
+  "downloaded_at": "2026-11-17T23:56:28+08:00",
+  "html_count": 55,
+  "file_count": 86,
+  "total_bytes": 5477199,
+  "notes": [
+    "HTML files are unchanged from the source.",
+    "Seven hero pages contain original backslash URLs; browser-normalized HTML targets are all present.",
+    "Font query strings were removed from local filenames to support local HTTP serving."
+  ],
+  "source_missing_fonts": [
+    "https://gltjk.com/sanguosha/rules/fonts/glyphicons-halflings-regular.eot",
+    "https://gltjk.com/sanguosha/rules/fonts/glyphicons-halflings-regular.svg",
+    "https://gltjk.com/sanguosha/rules/fonts/glyphicons-halflings-regular.ttf",
+    "https://gltjk.com/sanguosha/rules/fonts/glyphicons-halflings-regular.woff"
+  ],
+  "files": [
+    {
+      "path": "appendix/guohistory.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/appendix/guohistory.html",
+      "bytes": 31678,
+      "sha256": "d22234919909ef16d83601157d8b4361b21477ae39ee0ed0d9ef5c1af64bcabc"
+    },
+    {
+      "path": "appendix/history.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/appendix/history.html",
+      "bytes": 71245,
+      "sha256": "a0987615351ca8c0d47526d32c070acb1865978ae12d4d6d2c002cf097ae11db"
+    },
+    {
+      "path": "appendix/index.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/appendix/index.html",
+      "bytes": 29526,
+      "sha256": "37f13d76d114eb9f3292b1113dabcde461b424a82f591c8b9eac584be42cbc23"
+    },
+    {
+      "path": "appendix/mizhimie.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/appendix/mizhimie.html",
+      "bytes": 32875,
+      "sha256": "28225a6184bad9cec88c020ec4b6034b170645350ed31e2d33a67ebb4be243a5"
+    },
+    {
+      "path": "appendix/tutorial.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/appendix/tutorial.html",
+      "bytes": 32154,
+      "sha256": "6d1e03a2f7536197e95db870931c93b08345248be55598645f5bf91e5f390254"
+    },
+    {
+      "path": "card/basic.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/card/basic.html",
+      "bytes": 31704,
+      "sha256": "eb62749a3ec323017c78fe3dc9ba006db336f20ee72c89932eeee1539bc721e3"
+    },
+    {
+      "path": "card/equipment.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/card/equipment.html",
+      "bytes": 41735,
+      "sha256": "05f4107ebc4e0b772985d9355af802d22308dbe0a8c58181df6569ce053ba5ff"
+    },
+    {
+      "path": "card/hero/legend.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/card/hero/legend.html",
+      "bytes": 36994,
+      "sha256": "74d3455ed76263720e181d6afb55b563d76092eb76ae83316c5bc9f7bb4471cc"
+    },
+    {
+      "path": "card/hero/neutral.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/card/hero/neutral.html",
+      "bytes": 76712,
+      "sha256": "88079617c324fca6ac4127a43e384f122854821604377ba01a03b7d4f894bc2d"
+    },
+    {
+      "path": "card/hero/nongame.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/card/hero/nongame.html",
+      "bytes": 30869,
+      "sha256": "393605099e80963b15cbf82313a7ceba1ed13d5dd5614829b6062888f16e5f5b"
+    },
+    {
+      "path": "card/hero/shu.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/card/hero/shu.html",
+      "bytes": 80534,
+      "sha256": "e3f5b08c9a865bf914523137958139a1a1a7a6897b0b9789d8f3dd41275f3961"
+    },
+    {
+      "path": "card/hero/wei.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/card/hero/wei.html",
+      "bytes": 72603,
+      "sha256": "61bd20a8bb5af763d1703ec671272ea4b9bc49ea7d7b2fad33b82862c7b80918"
+    },
+    {
+      "path": "card/hero/west.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/card/hero/west.html",
+      "bytes": 29978,
+      "sha256": "27255e871f13ef2c3f62643e15fad1deea20f7113c50c0ace7c3e1f6c5320808"
+    },
+    {
+      "path": "card/hero/wu.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/card/hero/wu.html",
+      "bytes": 73321,
+      "sha256": "e8a7f8f8509e13fceef8135ef35e62a9d75073cb8d8b56096608fc4e5d182c93"
+    },
+    {
+      "path": "card/hero.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/card/hero.html",
+      "bytes": 31400,
+      "sha256": "ad95f9a78d8e994a73db1085e3d6be869f72ad644f8112667a6e6c6f9571e1ab"
+    },
+    {
+      "path": "card/index.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/card/index.html",
+      "bytes": 33220,
+      "sha256": "09c75e2cb4ed9da738bd8c01828764a9abb9588e8581e8d182c50b806ded9ceb"
+    },
+    {
+      "path": "card/scroll.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/card/scroll.html",
+      "bytes": 41219,
+      "sha256": "f4d80a8df8c25280b888c7806dfb1f8cb8964e75dcc9c4a3f411a515185d348d"
+    },
+    {
+      "path": "flow/condition.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/condition.html",
+      "bytes": 40411,
+      "sha256": "271a1e90f65f2472d5fd1d497593b9d46772fd45e1ddec6fd37894f187c16e13"
+    },
+    {
+      "path": "flow/damage.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/damage.html",
+      "bytes": 35974,
+      "sha256": "2b5012c33ba7dd00b0b65f63e81164c9e53f604cbc904f5f0a70bfe1fc30afb1"
+    },
+    {
+      "path": "flow/death.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/death.html",
+      "bytes": 32907,
+      "sha256": "c9559e7f5f45c5409628b27bdccac6b9dc8d03ae38ac64fd1a44791b4d58f5cb"
+    },
+    {
+      "path": "flow/decreaselife.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/decreaselife.html",
+      "bytes": 30324,
+      "sha256": "e71923c6da0b4bf0607f267cc5dcffa3cf1ee61640f34e11284ccdd674cd0d74"
+    },
+    {
+      "path": "flow/decreaselifemax.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/decreaselifemax.html",
+      "bytes": 29857,
+      "sha256": "61fca3fbfd88fa76f95a307594781bf1612beb69ce5e9646a256f3f668df5210"
+    },
+    {
+      "path": "flow/game.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/game.html",
+      "bytes": 39074,
+      "sha256": "09bc8b0fcd3ae1f5ad8f7d92056d2ddd56866a5fc8bef1385eb12a967fb73cb5"
+    },
+    {
+      "path": "flow/increaselifemax.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/increaselifemax.html",
+      "bytes": 29549,
+      "sha256": "6f0fac39c96ecfc664b60d2206ccee62e11207939a481a5c89b96da847f71473"
+    },
+    {
+      "path": "flow/index.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/index.html",
+      "bytes": 30707,
+      "sha256": "68d6f3b2bcfecd2efa35d34519ec369d78c09ffc8bee04de29c854228a0046f7"
+    },
+    {
+      "path": "flow/judge.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/judge.html",
+      "bytes": 29994,
+      "sha256": "83a4e4a5d2cf8c1afc653561fc1c00cae539904efb1865e273c2738223e9ae30"
+    },
+    {
+      "path": "flow/loselife.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/loselife.html",
+      "bytes": 29680,
+      "sha256": "7c921298be404a48f4ddb8805345b740c4e6d1a8429313d072cdaf1255ecf0c5"
+    },
+    {
+      "path": "flow/move.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/move.html",
+      "bytes": 39231,
+      "sha256": "f4bfd6ed3ff50d242aef547761140b805c7cff6da79b78c90cfa9cbf5bf5729b"
+    },
+    {
+      "path": "flow/neardeath.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/neardeath.html",
+      "bytes": 33140,
+      "sha256": "6da8fb03558b4297e42b75ff14c700de6ccb12d2abd021e109010f73c3c27b3c"
+    },
+    {
+      "path": "flow/play.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/play.html",
+      "bytes": 30665,
+      "sha256": "39e2e8a440f61eaebea6fb00fbecc5f703a5fe91942bdf56feb649f815455998"
+    },
+    {
+      "path": "flow/rankcompare.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/rankcompare.html",
+      "bytes": 30707,
+      "sha256": "789383900bb1d55455f71a8f280ef005462c0d6331a671f5247598213ae3c8fc"
+    },
+    {
+      "path": "flow/recoverlife.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/recoverlife.html",
+      "bytes": 29593,
+      "sha256": "3023cbf6f3cdca62765ca2a072dd3caeae723e2f5a0d5e81eefbe160a729982a"
+    },
+    {
+      "path": "flow/statechange.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/statechange.html",
+      "bytes": 29451,
+      "sha256": "ceff7e51e2561ae035df2a5476bff68083d37420534afac0c1bbdb7366a76463"
+    },
+    {
+      "path": "flow/use.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/use.html",
+      "bytes": 44800,
+      "sha256": "5055932fd2908370d52aed0e199d7c9cacc9ae83eb37b5201d23dbc248b7d63f"
+    },
+    {
+      "path": "flow/virtual.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/flow/virtual.html",
+      "bytes": 34567,
+      "sha256": "c3a92634ff883b6aaad5fee228e20dbd0a35e6a236030fd800cdb83c73014d05"
+    },
+    {
+      "path": "gitbook/app.js",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook/app.js",
+      "bytes": 559618,
+      "sha256": "8c4959d66732be42e7b47931162be1469351e8fa306449c4feb312e16cb4d7cb"
+    },
+    {
+      "path": "gitbook/fonts/fontawesome/fontawesome-webfont.eot",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/fontawesome/fontawesome-webfont.eot?v=4.1.0",
+      "bytes": 72449,
+      "sha256": "9f8288933d2c87ab3cdbdbda5c9fa1e1e139b01c7c1d1983f91a13be85173975"
+    },
+    {
+      "path": "gitbook/fonts/fontawesome/fontawesome-webfont.svg",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/fontawesome/fontawesome-webfont.svg?v=4.1.0",
+      "bytes": 253487,
+      "sha256": "4f1f9ffe01469bbd03b254ec563c304dd92276514110364148cb7ffdd75d3297"
+    },
+    {
+      "path": "gitbook/fonts/fontawesome/fontawesome-webfont.ttf",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/fontawesome/fontawesome-webfont.ttf?v=4.1.0",
+      "bytes": 141564,
+      "sha256": "c2a9333b008247abd42354df966498b4c2f1aa51a10b7e178a4f5df2edea4ce1"
+    },
+    {
+      "path": "gitbook/fonts/fontawesome/fontawesome-webfont.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/fontawesome/fontawesome-webfont.woff?v=4.1.0",
+      "bytes": 83760,
+      "sha256": "66db52b456efe7e29cec11fa09421d03cb09e37ed1b567307ec0444fd605ce31"
+    },
+    {
+      "path": "gitbook/fonts/merriweather/250.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/merriweather/250.woff",
+      "bytes": 54988,
+      "sha256": "1f0ebc158f515404e229cf6cc19b7086a56e6d5242840efe6bf04ae96aaf97bc"
+    },
+    {
+      "path": "gitbook/fonts/merriweather/250i.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/merriweather/250i.woff",
+      "bytes": 42416,
+      "sha256": "72b0ee9c1185753a15fd7b41f3d013f6853b04a1595c2f1f4840760f7e179fec"
+    },
+    {
+      "path": "gitbook/fonts/merriweather/400.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/merriweather/400.woff",
+      "bytes": 51268,
+      "sha256": "bebaa572141c75c55ba47914eddc4db053dec550c9331a3241d728d37d66001e"
+    },
+    {
+      "path": "gitbook/fonts/merriweather/400i.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/merriweather/400i.woff",
+      "bytes": 41140,
+      "sha256": "1d7b2e4e8b679683246efd7a804b473202bb962c279a4554b4fdbc9c63134f78"
+    },
+    {
+      "path": "gitbook/fonts/merriweather/700.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/merriweather/700.woff",
+      "bytes": 55768,
+      "sha256": "ac6ec1efcb8a422f8dcab3c139c4f003ae52cfd97ec736ecc26a48b5aeb5399d"
+    },
+    {
+      "path": "gitbook/fonts/merriweather/700i.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/merriweather/700i.woff",
+      "bytes": 61848,
+      "sha256": "82e89a1ce2d1fee7c8e2fc97a87acc92dff746aeef4ce15b9d1e9062a65f425d"
+    },
+    {
+      "path": "gitbook/fonts/merriweather/900.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/merriweather/900.woff",
+      "bytes": 54064,
+      "sha256": "3ae7587b5af4a9ed0e44eeaabee81111088acef6b636f59c2b2d92d8cb8a59c5"
+    },
+    {
+      "path": "gitbook/fonts/merriweather/900i.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/merriweather/900i.woff",
+      "bytes": 40696,
+      "sha256": "81233d8f91611e5db5fca0f17afe86faee24eb811c6c92e4c2c210984cd3acc2"
+    },
+    {
+      "path": "gitbook/fonts/opensans/300.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/opensans/300.woff",
+      "bytes": 69392,
+      "sha256": "a92e461bd6224649709c633449da33ff6b4b9aa20f1ab45eec012ffa1af3da65"
+    },
+    {
+      "path": "gitbook/fonts/opensans/300i.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/opensans/300i.woff",
+      "bytes": 65124,
+      "sha256": "00e6531bf4e07e9b32d2dd3148431a95979b65c3b3bd7f1c6f61134667d7729c"
+    },
+    {
+      "path": "gitbook/fonts/opensans/400.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/opensans/400.woff",
+      "bytes": 67524,
+      "sha256": "4e7d92a7152ed0ea59dc372f2e8cdf2f0f092ddce74caa0601c0b2b78daa1e8c"
+    },
+    {
+      "path": "gitbook/fonts/opensans/400i.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/opensans/400i.woff",
+      "bytes": 65184,
+      "sha256": "0ec9a60baa65653d03d176e27d8d7ff15d743b957ee7b0eb9e62107eb67aa3d9"
+    },
+    {
+      "path": "gitbook/fonts/opensans/600.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/opensans/600.woff",
+      "bytes": 69884,
+      "sha256": "623da457793465ec733faffc29f8a6c310d78a5c49125fe3cc372cba2735f2e4"
+    },
+    {
+      "path": "gitbook/fonts/opensans/600i.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/opensans/600i.woff",
+      "bytes": 65888,
+      "sha256": "6d3186e61e56b81041e671a4d788f867fe2a7ab6dcade219e301fed82e29a5a7"
+    },
+    {
+      "path": "gitbook/fonts/opensans/700.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/opensans/700.woff",
+      "bytes": 70188,
+      "sha256": "0ddfc4583192715ec5469530efd300265d9fc7898002fdcf21e8fc9fbf0533bb"
+    },
+    {
+      "path": "gitbook/fonts/opensans/700i.woff",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook//fonts/opensans/700i.woff",
+      "bytes": 65060,
+      "sha256": "0bd1f342915695cd9e2286bddeb71cf3c56c1675acfe644528d71ee6d0031deb"
+    },
+    {
+      "path": "gitbook/images/favicon.ico",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook/images/favicon.ico",
+      "bytes": 1150,
+      "sha256": "faffaca04d05ef9a64fc4c8d615a7494192199868334e8996d1f9b92aaf6dccd"
+    },
+    {
+      "path": "gitbook/jsrepl/jsrepl.js",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook/jsrepl/jsrepl.js",
+      "bytes": 12667,
+      "sha256": "63fb259412686982a5f85e1ff941879499f8fb474d83784ca68367f6acffd434"
+    },
+    {
+      "path": "gitbook/style.css",
+      "source_url": "https://gltjk.com/sanguosha/rules/gitbook/style.css",
+      "bytes": 171673,
+      "sha256": "a0fe17ced8bb9ce6f96597524e6bdc506c1f1baeb6647a5b86c062179c1ce4c2"
+    },
+    {
+      "path": "glossary/card.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/glossary/card.html",
+      "bytes": 33676,
+      "sha256": "30cfb9d608058ddf481828f5d9de5bf389c239676bb6f06c04ddfc2e8f8bba8a"
+    },
+    {
+      "path": "glossary/cardinfo.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/glossary/cardinfo.html",
+      "bytes": 31999,
+      "sha256": "1a9e4eee40bd7572718182b6119d9e6e00525cc66d4f1fda0e1e5cb8f58bd43d"
+    },
+    {
+      "path": "glossary/description.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/glossary/description.html",
+      "bytes": 45908,
+      "sha256": "54604aeb4f035d9819f47ae587b2e6b731fbe49812ab2a493b1d5249d32fe31d"
+    },
+    {
+      "path": "glossary/event.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/glossary/event.html",
+      "bytes": 36731,
+      "sha256": "4e5047266d50bd22f2ed7c428ee54e666a04dc364ff86fd744918c818dd776e2"
+    },
+    {
+      "path": "glossary/flow.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/glossary/flow.html",
+      "bytes": 38916,
+      "sha256": "aba7eb062df6bafe53f5e96c5606b480128921db2e09cefc0c64d8772363c8a4"
+    },
+    {
+      "path": "glossary/gamecard.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/glossary/gamecard.html",
+      "bytes": 48269,
+      "sha256": "ed0979655154363e444a51cfa09ef9866c0a4ee265853f430807c26a3b81a3ea"
+    },
+    {
+      "path": "glossary/guo.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/glossary/guo.html",
+      "bytes": 37575,
+      "sha256": "b071581671cc7fe455d6d0ceba52fa6945664a62c901410f9c300816b0508295"
+    },
+    {
+      "path": "glossary/herocard.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/glossary/herocard.html",
+      "bytes": 32273,
+      "sha256": "5b5582cddaab6389a552aa72a4497547d0509cc4ef26af9ee6df245d216ea17a"
+    },
+    {
+      "path": "glossary/index.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/glossary/index.html",
+      "bytes": 31846,
+      "sha256": "8b7b7bbc44cadfaa3e5f168a399824c80d6b152e180e0a066ed6511b6bb42c99"
+    },
+    {
+      "path": "glossary/value.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/glossary/value.html",
+      "bytes": 35773,
+      "sha256": "fca3f55e3ece77640fafd181e2e7aed303e3c9f2515040754876bf6d22a9b660"
+    },
+    {
+      "path": "glossary/zone.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/glossary/zone.html",
+      "bytes": 34687,
+      "sha256": "37882ee90ee4aee063f486d59607f6b774563cb0dc13bd20d6ccab6bc4ed8e83"
+    },
+    {
+      "path": "images/ability.png",
+      "source_url": "https://gltjk.com/sanguosha/rules/images/ability.png",
+      "bytes": 100612,
+      "sha256": "a805ac5e659dd075df4148dcbe61ea4114f0e36844e7a01426be00c4cea4e59e"
+    },
+    {
+      "path": "images/chain.jpg",
+      "source_url": "https://gltjk.com/sanguosha/rules/images/chain.jpg",
+      "bytes": 59861,
+      "sha256": "2cdafb72b5746904ddf777883291563336778a1074ce0c37fb1a47f518cbc327"
+    },
+    {
+      "path": "images/distance.png",
+      "source_url": "https://gltjk.com/sanguosha/rules/images/distance.png",
+      "bytes": 104787,
+      "sha256": "89443ebb97b22f1f49b3d2094369e631f5491a50499ce5f6e6317ba125443cde"
+    },
+    {
+      "path": "images/hanxu.png",
+      "source_url": "https://gltjk.com/sanguosha/rules/images/hanxu.png",
+      "bytes": 113342,
+      "sha256": "6b6e1e3c97cc26e1640d1d3465bc9da27cc1843c562aea3b2fdaa903e2fbacc9"
+    },
+    {
+      "path": "images/qrcode.png",
+      "source_url": "https://gltjk.com/sanguosha/rules/images/qrcode.png",
+      "bytes": 32787,
+      "sha256": "c682b75ad58e2198e6fcaea24b54463c7cec774bf289dbc979e9c1d04de1724e"
+    },
+    {
+      "path": "index.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/index.html",
+      "bytes": 30674,
+      "sha256": "c9ce17e852309a66a0562982670119ace2c57c78b9796b72a24dbcbdbedf8e6e"
+    },
+    {
+      "path": "info/guo.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/info/guo.html",
+      "bytes": 32694,
+      "sha256": "3883c18d0d62843ec1ddf4c37dbbdde5cf413fbd37138143ff0b65e283b51663"
+    },
+    {
+      "path": "info/index.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/info/index.html",
+      "bytes": 29490,
+      "sha256": "886d08042e636fedc26e824d1a1fd6288b97aa438f5b191c8ebb261aa68a9fcd"
+    },
+    {
+      "path": "info/role.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/info/role.html",
+      "bytes": 33617,
+      "sha256": "658982c67ee2661be288bd1da19bd51f318a56f1ae14e74ad60a43339a4718e0"
+    },
+    {
+      "path": "robots.txt",
+      "source_url": "https://gltjk.com/robots.txt",
+      "bytes": 88,
+      "sha256": "da9d2ca4c9f9279d174486647657b7da746f860b29571e5cfe163cbf26345a3b"
+    },
+    {
+      "path": "rule/classification.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/rule/classification.html",
+      "bytes": 46432,
+      "sha256": "b4a1dec1ee64641ffb5290e0632c4fe0119e8fc24981536a7521b4533fc878dd"
+    },
+    {
+      "path": "rule/element.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/rule/element.html",
+      "bytes": 38368,
+      "sha256": "3eba5a9bf2776a71fca1f72c35c60510c73a6e4d58731515ab2c8246c2176575"
+    },
+    {
+      "path": "rule/forced.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/rule/forced.html",
+      "bytes": 33762,
+      "sha256": "ac5121474b9fb1ab37df739e1a9d3dfd3e413f1ad5809cb28fea6885feeb0d70"
+    },
+    {
+      "path": "rule/index.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/rule/index.html",
+      "bytes": 29846,
+      "sha256": "ef56deef2109077ad4cdb4356b4ce3fcd6e4e010a63c12d9711348bf6e3ba9c1"
+    },
+    {
+      "path": "rule/principle.html",
+      "source_url": "https://gltjk.com/sanguosha/rules/rule/principle.html",
+      "bytes": 44091,
+      "sha256": "2c7f9095fd96675b0a41470483b6d72b0bb09e50fcf8cdf5796c3abc13ddfa50"
+    },
+    {
+      "path": "search_index.json",
+      "source_url": "https://gltjk.com/sanguosha/rules/search_index.json",
+      "bytes": 723897,
+      "sha256": "d9b668ff1bd1117327821b385c8e83de7890f4aa398c7163d1eaf8a0538246fe"
+    }
+  ]
+}

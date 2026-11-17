@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /21keg/
+Disallow: /ppe/
+Disallow: /ppeedu.com/
+Disallow: /blog/
