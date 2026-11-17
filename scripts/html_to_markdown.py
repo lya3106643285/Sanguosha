@@ -15,6 +15,12 @@ HTML_ROOT = ROOT / "source" / "original_rules" / "html"
 MD_ROOT = ROOT / "source" / "original_rules" / "md"
 
 
+class RuleConverter(MarkdownConverter):
+    def escape(self, text: str, parent_tags: set[str]) -> str:
+        # A literal > at the beginning of a line is otherwise parsed as a quote.
+        return super().escape(text, parent_tags).replace(">", r"\>")
+
+
 def convert_page(source: Path) -> None:
     soup = BeautifulSoup(source.read_text(encoding="utf-8"), "html.parser")
     content = soup.select_one(".page-inner .normal")
@@ -35,7 +41,7 @@ def convert_page(source: Path) -> None:
             relative = os.path.relpath(target, output.parent)
             element[attribute] = urlunsplit(("", "", relative, parts.query, parts.fragment))
     title = soup.title.get_text(" ", strip=True).split(" | ")[0] if soup.title else ""
-    converter = MarkdownConverter(
+    converter = RuleConverter(
         heading_style="ATX",
         bullets="-",
         strip=["script", "style"],

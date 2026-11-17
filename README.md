@@ -7,6 +7,8 @@
 **基础规则参考：** 拟以凌天翼主持编写的《三国杀官方规则集 v3.0》为初始底本；已保存第三方网页版快照，原件、版本和适用范围仍须核验。  
 **项目性质：** 独立研究与开发，不代表游戏官方裁定。
 
+**规则书入口：** [原始网站：三国杀官方规则集 3.0](https://gltjk.com/sanguosha/rules/) · [本地 HTML 快照](source/original_rules/html/index.html) · [Markdown 转写](source/original_rules/md/index.md)。网站的官方身份、原件及适用范围尚待核验。
+
 ## 1. 为什么做这个项目
 
 《三国杀》的规则体系随版本、武将、模式与运营平台持续扩展。复杂技能交互经常涉及事件时序、效果替换、例外条款与适用范围，仅靠自然语言检索或简单的“技能—效果”关联，难以稳定地解释结算结果。
@@ -126,7 +128,7 @@ conda activate sanguosha
 python scripts/html_to_markdown.py
 ```
 
-现有环境名为 `sanguosha`，使用 Python 3.12 和 `markdownify`。已有该环境时直接激活即可。脚本位置保持在 `scripts/`，读取 `source/original_rules/html/`，重新生成 `source/original_rules/md/`。Markdown 保留正文结构及图片引用，站内页面链接改为对应 `.md` 文件；图片仍引用 HTML 快照中的资源。转换产物不是已经核验的语义模型，逐条正文一致性复核仍待完成。
+现有环境名为 `sanguosha`，使用 Python 3.12 和 `markdownify`。已有该环境时直接激活即可。脚本位置保持在 `scripts/`，读取 `source/original_rules/html/`，重新生成 `source/original_rules/md/`。Markdown 保留正文结构及图片引用，站内页面链接改为对应 `.md` 文件；图片仍引用 HTML 快照中的资源。已对全部页面进行正文及主要结构的自动比对，方法和限制见[来源登记](source/index.md#src-002)。转换产物不是已经核验的语义模型。
 
 ### 浏览原始快照
 
@@ -162,7 +164,7 @@ python -m http.server 8000 --directory source/original_rules/html
 
 ## 10. 项目状态
 
-当前为**初始化阶段**：基础目录和记录规范已建立，已归档 55 个 HTML 页面及其 Markdown 转换稿。网页下载覆盖范围和文件校验信息见来源登记；完整原件、官方发布身份、适用范围及正文转写一致性尚未完成核验。尚无已确认的术语模型、推演结论或已验证的交互案例。
+当前为**初始化阶段**：基础目录和记录规范已建立，已归档 55 个 HTML 页面及其 Markdown 转换稿，并完成正文自动比对。网页下载覆盖范围和校对限制见来源登记；完整原件、官方发布身份及适用范围尚未完成核验。尚无已确认的术语模型、推演结论或已验证的交互案例。
 
 任何未核实的规则说明、尚未验证的推导和拟议中的模型设计，都不应被视为已确立的规则事实。
 
