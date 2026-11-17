@@ -1,0 +1,14 @@
+# Local environments and Python caches
+.conda/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local credentials and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
