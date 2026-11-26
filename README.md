@@ -169,3 +169,9 @@ V0.1 至 V0.3 是本项目的语义设计文档版本。规则参考版本为《
 已归档 55 个 HTML 页面及其 Markdown 转换稿，并完成正文自动比对。完整原件、官方发布身份和适用范围仍待核验。[来源登记](source/index.md)
 
 Git 分支为 `main`，远端 `origin` 为 <https://github.com/lya3106643285/Sanguosha.git>。
+
+## 11. 许可证
+
+本仓库的原创代码和原创文档采用 MIT 许可证。[LICENSE](LICENSE)
+
+规则网页快照及其转写稿、卡牌素材和其他第三方资料沿用各自的许可或权利状态。[来源登记](source/index.md)
